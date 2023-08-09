@@ -1,0 +1,19 @@
+{
+    "Map": "Town03",
+    "MissionID": "C2",
+    "MissionDescription": "The VVehicle should react to the static object",
+    "AttackSpeed": 8,
+    "VictimSpeed": 8,
+    "AttackTransform": "Transform(Location(x=-36, y=-198, z=0.200000), Rotation(pitch=0.000000, yaw=0, roll=0.000000))",
+    "VictimTransform": "Transform(Location(x=-30, y=-195, z=0.200000), Rotation(pitch=0.000000, yaw=0, roll=0.000000))",
+    "NPC": {
+        "stopped_vehicle": [
+            "vehicle.tesla.cybertruck",
+            "Transform(Location(x=10.0, y=-195, z=0.2), Rotation(pitch=0.0, yaw=-90, roll=0.0))",
+            "0",
+            "[(0, 0), (0, 0), (0, 0), (0, 0), (0, 0)]"
+        ]
+    },
+    "timestep": 0.8,
+    "rob_enable": true
+}
